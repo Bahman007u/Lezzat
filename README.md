@@ -8,7 +8,7 @@
 
 | Onboarding (`IntroActivity`) | Authentication (`LoginActivity`) | Home Dashboard (`MainActivity`) | Cart & Checkout (`CartActivity`) |
 | :---: | :---: | :---: | :---: |
-| <img src="screenshots/01_intro_screen.jpeg" width="200" alt="Intro Screen"/> | <img src="screenshots/02_login_screen.jpeg" width="200" alt="Login Screen"/> | <img src="screenshots/03_home_dashboard.jpeg" width="200" alt="Home Dashboard"/> | <img src="screenshots/04_cart_checkout.jpeg" width="200" alt="Cart Checkout"/> |
+| <img src="https://res.cloudinary.com/dqbv45r78/image/upload/v1795302071/intro_z7fhnz.png" width="200" alt="Intro Screen"/> | <img src="https://res.cloudinary.com/dqbv45r78/image/upload/v1795302175/sign_up_kgb1pw.png" width="200" alt="Login Screen"/> | <img src="https://res.cloudinary.com/dqbv45r78/image/upload/v1795302070/homepage_jsrqz5.png" width="200" alt="Home Dashboard"/> | <img src="https://res.cloudinary.com/dqbv45r78/image/upload/v1795302070/cart_ixzrom.png" width="200" alt="Cart Checkout"/> |
 
 ---
 
